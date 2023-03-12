@@ -1,4 +1,4 @@
-package org.java.project.tahminoyunu;
+package com.project.tahminoyunu;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package org.java.project.reverse;
+package com.project.reverse;
 
 import java.util.Scanner;
 
